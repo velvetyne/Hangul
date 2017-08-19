@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Hangul';
+    src: url('vtf_hngl-webfont.eot');
+    src: url('vtf_hngl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('vtf_hngl-webfont.woff') format('woff'),
+         url('vtf_hngl-webfont.ttf') format('truetype'),
+         url('vtf_hngl-webfont.svg#vtfhngl') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
